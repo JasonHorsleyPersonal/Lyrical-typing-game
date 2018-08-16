@@ -1,0 +1,21 @@
+{
+    "name": "Lyrical_typing_game",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Jason Horsley",
+    "contributors": [],
+    "dependencies": {},
+    
+    "description": "A typing game I'm making for my wife so that she can learn song lyrics",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/username/repository.git"
+    }
+}
